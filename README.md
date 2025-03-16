@@ -25,7 +25,7 @@ data
     └── PDF
 ```
 
-After run convert_data22images.py:
+After run convert_data2images.py:
 ```
 data
 ├── images
